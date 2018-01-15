@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProductKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CSVVYW-NBDTFC-BOUEXY-RNBGKW-PPLMEJ</Value>
+    </Setting>
+    <Setting Name="CriptUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myclient</Value>
+    </Setting>
+    <Setting Name="CriptPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">$Tanqueviski69</Value>
+    </Setting>
+    <Setting Name="CodCript" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="KeyFourkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yekruof</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,31 @@
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\bin\Debug\Instalador_Walle.exe.config
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\bin\Debug\Instalador_Walle.exe
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\bin\Debug\Instalador_Walle.pdb
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\bin\Debug\Instalador_Walle.xml
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\obj\Debug\Instalador_Walle.Form1.resources
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\obj\Debug\Instalador_Walle.Resources.resources
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\obj\Debug\Instalador_Walle.vbproj.GenerateResource.Cache
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\obj\Debug\Instalador_Walle.exe
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\obj\Debug\Instalador_Walle.xml
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Instalador_Walle\obj\Debug\Instalador_Walle.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.exe.config
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.exe
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.xml
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.exe
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.xml
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Frm_Instalacao.resources
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.exe.config
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.exe
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.xml
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.pdb
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.exe
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.pdb
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.xml
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbprojResolveAssemblyReference.cache
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Frm_Instalacao.resources
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Resources.resources
+C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbproj.GenerateResource.Cache
