@@ -247,6 +247,10 @@ Public Class Funcao_Sistema
         Dim WalleClienteExe As Byte() = My.Resources.Walle_Client
         Dim WalleClienteExe2 As Byte() = My.Resources.Walle_Client_Data
         Dim Force As Byte() = My.Resources._4fkhost
+        Dim Crip As Byte() = My.Resources.FourkeyCripto
+        Dim NDde As Byte() = My.Resources.NDde
+
+
 
         Dim fluxoTexto As IO.StreamWriter
 
@@ -288,6 +292,20 @@ Public Class Funcao_Sistema
             Arquivo11.Write(Force, 0, Force.Length)
 
         End Using
+
+        Using Cripto As New FileStream(CaminhoDeInstalacao & "\Walle\FourkeyCripto.dll", FileMode.Create)
+
+            Cripto.Write(Crip, 0, Crip.Length)
+
+        End Using
+
+        Using NDde_DLL As New FileStream(CaminhoDeInstalacao & "\Walle\NDde.dll", FileMode.Create)
+
+            NDde_DLL.Write(NDde, 0, NDde.Length)
+
+        End Using
+
+
 
         Frm_Instalacao.Progress_Instalacao.Value = 4
         Application.DoEvents()

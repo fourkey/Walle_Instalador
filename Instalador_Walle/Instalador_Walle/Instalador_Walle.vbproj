@@ -143,9 +143,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
-    <None Include="Resources\Walle_Client.exe" />
-    <None Include="Resources\Walle_Client_Data.exe" />
-    <None Include="Resources\4fkhost.exe" />
+    <Content Include="Resources\4fkhost.exe" />
+    <Content Include="Resources\Walle_Client.exe" />
+    <Content Include="Resources\Walle_Client_Data.exe" />
+    <None Include="Resources\NDde.dll" />
+    <None Include="Resources\FourkeyCripto.dll" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
@@ -159,6 +161,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

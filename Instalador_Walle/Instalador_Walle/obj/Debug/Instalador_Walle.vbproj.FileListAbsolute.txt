@@ -29,3 +29,15 @@ C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_W
 C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Frm_Instalacao.resources
 C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Resources.resources
 C:\Users\gusta\Projetos\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbproj.GenerateResource.Cache
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.exe.config
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.exe
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.pdb
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\bin\Debug\Instalador_Walle.xml
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Frm_Instalacao.resources
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.Resources.resources
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbproj.GenerateResource.Cache
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbproj.CoreCompileInputs.cache
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.exe
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.xml
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.pdb
+C:\Users\luizh\source\Walle_Instalador\Instalador_Walle\Instalador_Walle\obj\Debug\Instalador_Walle.vbprojResolveAssemblyReference.cache
